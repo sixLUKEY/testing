@@ -2,6 +2,6 @@
   "requires": "ts-node/register",
   "loader": "ts-node/esm",
   "extensions": ["ts"],
-  "spec": ["tests/**/*.spec.*"],
+  "spec": ["test/**/*.spec.*"],
   "watch-files": ["src"]
 }
