@@ -1,3 +1,5 @@
 # testing
 
-testing repo for different testing frameworks
+testing
+
+run `npm test` to run tests
